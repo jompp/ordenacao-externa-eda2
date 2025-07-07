@@ -10,7 +10,7 @@ O projeto foi desenvolvido em **Python 3**. Nenhuma biblioteca externa é necess
 
 ## Execução
 
-Para executar o programa, utilize o seguinte comando no terminal, a partir da pasta raiz do projeto:
+Para executar o programa, o arquivo de entrada e o arquivo de saída devem estar na raiz do projeto. Utilize o seguinte comando no terminal, a partir da pasta raiz do projeto:
 
 ```bash
 python3 main.py <p> <arquivo_entrada> <arquivo_saida>
